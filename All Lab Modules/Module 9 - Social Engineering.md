@@ -1,6 +1,6 @@
 Objective: The objective of the lab is to use social engineering and related techniques to: Sniff user/employee credentials such as employee IDs, names, and email addresses, Obtain employees’ basic personal details and organizational information, Obtain usernames and passwords, Perform phishing and Detect phishing
 
-Tools Required: Windows 10 virtual machine, Windows Server 2019 virtual machine, Windows Server 2016 virtual machine, Parrot Security virtual machine, Ubuntu virtual machine, Web browsers with an Internet connection, Administrator privileges to run the tools
+Tools Required: Windows 10 virtual machine, Windows Server 2019 virtual machine, Windows Server 2016 virtual machine, Parrot Security virtual machine, Ubuntu virtual machine, Web browsers with an Internet connection, Administrator privileges to run the tools.
 
 Screenshots: 
 
