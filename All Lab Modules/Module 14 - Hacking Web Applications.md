@@ -1,0 +1,43 @@
+Objective: The objective of the lab is to perform web application hacking and other tasks that include, but are not limited to: Footprinting a web application using various information-gathering tools, Performing web spidering, detect load balancers, and identify web server directories, Performing web application vulnerability scanning, Performing brute-force and cross-site request forgery (CSRF) attack, Exploiting parameter tampering and cross-site scripting (XSS) vulnerabilities, Exploiting WordPress plugin vulnerabilities, Exploiting remote command execution vulnerability Exploiting file upload vulnerability, Gaining backdoor access via a web shell and Detecting web application vulnerabilities using various web application security tools
+
+Tools Required: Windows 10 virtual machine, Windows Server 2019 virtual machine, Windows Server 2016 virtual machine, Parrot Security virtual machine, Ubuntu virtual machine, Web browsers with an Internet connection, Administrator privileges to run the tools
+
+Screenshots: 
+
+
+![Screenshot 2021-07-23 203459](https://user-images.githubusercontent.com/86727063/153053355-1861b12f-504b-4497-af53-7f0af92c0087.png)
+![Screenshot 2021-07-23 205757](https://user-images.githubusercontent.com/86727063/153053360-971638b4-6040-4b8b-8601-94ade58331c5.png)
+![Screenshot 2021-07-23 205828](https://user-images.githubusercontent.com/86727063/153053365-84104d15-75bc-48bf-a429-e54c6481636a.png)
+![Screenshot 2021-07-23 211151](https://user-images.githubusercontent.com/86727063/153053368-21eab300-d2be-46cb-872a-45ddfc9199f4.png)
+![Screenshot 2021-07-23 211216](https://user-images.githubusercontent.com/86727063/153053371-0d801ce5-c5c3-4fef-aa9f-2b167ba6fe9a.png)
+![Screenshot 2021-07-24 163930](https://user-images.githubusercontent.com/86727063/153053378-a03e9b66-a84f-4f35-8aa5-2d1493274db6.png)
+![Screenshot 2021-07-24 165157](https://user-images.githubusercontent.com/86727063/153053385-6f8eed95-84c5-4b38-b3d5-757e9f6b1f95.png)
+![Screenshot 2021-07-24 170958](https://user-images.githubusercontent.com/86727063/153053388-8942fe65-01c1-4540-8c8c-05af0e7eb4eb.png)
+![Screenshot 2021-07-24 171443](https://user-images.githubusercontent.com/86727063/153053390-9873b58e-cb22-4dc9-9c45-7c1a88f75cd4.png)
+![Screenshot 2021-07-24 172943](https://user-images.githubusercontent.com/86727063/153053394-dfd1a11b-92c2-450f-8f98-062561344483.png)
+![Screenshot 2021-07-24 173043](https://user-images.githubusercontent.com/86727063/153053396-94fa2fdb-b78c-41ac-b54a-efc8888332c5.png)
+![Screenshot 2021-07-24 173333](https://user-images.githubusercontent.com/86727063/153053398-689bd179-5573-4e08-a000-0fbe3352afd3.png)
+![Screenshot 2021-07-24 173511](https://user-images.githubusercontent.com/86727063/153053403-cf1cd1bb-ef12-4f8c-97c6-6461bd622ca9.png)
+![Screenshot 2021-07-24 173951](https://user-images.githubusercontent.com/86727063/153053407-b3242875-6779-4af3-8ae6-0864501e59ae.png)
+![Screenshot 2021-07-24 174222](https://user-images.githubusercontent.com/86727063/153053412-36b89ca8-d2c5-4dda-9c3e-25514d88ae47.png)
+![Screenshot 2021-07-24 174522](https://user-images.githubusercontent.com/86727063/153053413-7826318c-2781-494c-847f-011127252075.png)
+![Screenshot 2021-07-24 174612](https://user-images.githubusercontent.com/86727063/153053415-7ee9ab78-712b-4e78-b4bb-319b2592b9f7.png)
+![Screenshot 2021-07-24 175012](https://user-images.githubusercontent.com/86727063/153053416-0c1bb1b7-aa49-4ea1-8e6e-c5a82efd4554.png)
+![Screenshot 2021-07-24 175156](https://user-images.githubusercontent.com/86727063/153053419-9cdda700-d8ef-4a97-925d-8c343d99dbff.png)
+![Screenshot 2021-07-24 180156](https://user-images.githubusercontent.com/86727063/153053424-0f2bf389-071c-43c8-8343-b537a0eeab52.png)
+![Screenshot 2021-07-24 182151](https://user-images.githubusercontent.com/86727063/153053428-6f552c54-2fbe-4a11-8c88-ef0e82e6712d.png)
+![Screenshot 2021-07-24 182451](https://user-images.githubusercontent.com/86727063/153053429-2d884221-4224-4638-afea-3c07fd532e44.png)
+![Screenshot 2021-07-24 182621](https://user-images.githubusercontent.com/86727063/153053432-7be983e3-9e91-4768-b7f7-654bcb3e756c.png)
+![Screenshot 2021-07-24 182320](https://user-images.githubusercontent.com/86727063/153053434-28fecef7-eba3-418b-b6bc-59530ff8d239.png)
+![Screenshot 2021-07-24 182821](https://user-images.githubusercontent.com/86727063/153053437-aa1084aa-2c61-436c-bdbf-408650b35115.png)
+![Screenshot 2021-07-24 183011](https://user-images.githubusercontent.com/86727063/153053438-5026691d-dfae-4e9c-9311-6a88b957d734.png)
+![Screenshot 2021-07-24 183219](https://user-images.githubusercontent.com/86727063/153053440-6f7b8a66-8658-493c-bab7-78b801c87ae7.png)
+![Screenshot 2021-07-24 183713](https://user-images.githubusercontent.com/86727063/153053444-b07bca95-d9e5-4572-87b2-e8371e30d2ff.png)
+![Screenshot 2021-07-24 183831](https://user-images.githubusercontent.com/86727063/153053449-87944029-e830-495f-b37b-3b611f98af00.png)
+![Screenshot 2021-07-24 183905](https://user-images.githubusercontent.com/86727063/153053453-6b0ea6b6-788d-47a1-963d-c8d5f4d1cd19.png)
+![Screenshot 2021-07-24 184623](https://user-images.githubusercontent.com/86727063/153053455-7c424472-09bf-4e84-8855-c3d59ac2682e.png)
+![Screenshot 2021-07-24 184658](https://user-images.githubusercontent.com/86727063/153053458-be924f3b-f074-4960-8f04-61fa68a56530.png)
+![Screenshot 2021-07-24 190058](https://user-images.githubusercontent.com/86727063/153053460-1ebdb1fc-1223-4e72-b50c-141024f67702.png)
+![Screenshot 2021-07-26 185710](https://user-images.githubusercontent.com/86727063/153053464-b779537e-7ad2-4bef-9d39-152fb737ba09.png)
+![Screenshot 2021-07-26 190010](https://user-images.githubusercontent.com/86727063/153053467-fb93725f-1719-4a8f-95d0-b414a5268a29.png)
+![Screenshot 2021-07-26 191510](https://user-images.githubusercontent.com/86727063/153053470-17086953-d66b-4664-86d2-e9b305817b42.png)
